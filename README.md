@@ -52,7 +52,7 @@
 | LLM Basics | [https://arxiv.org/pdf/2501.09636](https://arxiv.org/pdf/2501.09636) | Deployment of the mixture-of-experts mechanism in the stock investment domain|
 | LLM Basics | [https://github.com/vllm-project/aibrix/blob/main/docs/paper/AIBrix_White_Paper_0219_2025.pdf](https://github.com/vllm-project/aibrix/blob/main/docs/paper/AIBrix_White_Paper_0219_2025.pdf) | Scalable, Cost Effective LLM Inference Infrastructure |
 | LLM Basics | [https://towardsdatascience.com/all-you-need-to-know-to-develop-using-large-language-models-5c45708156bc/](https://towardsdatascience.com/all-you-need-to-know-to-develop-using-large-language-models-5c45708156bc/) | Introduces key overviews of LLM development concepts|
-
+LLM Basics | https://github.com/karpathy/nanoGPT | Minimal GPT codebase in ~300 lines
 
 
 ### Prompt engineering
@@ -67,6 +67,7 @@
 | Prompt engineering | [https://github.com/dair-ai/Prompt-Engineering-Guide?tab=readme-ov-file](https://github.com/dair-ai/Prompt-Engineering-Guide?tab=readme-ov-file) | Prompt engineering guide |
 | Prompt engineering | [https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api) | Best practices for prompt engineering with the OpenAI API |
 | Prompt engineering | [https://medium.com/@fareedkhandev/prompt-engineering-complete-guide-2968776f0431](https://medium.com/@fareedkhandev/prompt-engineering-complete-guide-2968776f0431) | Alternative prompt engineering guide |
+Prompt engineering | https://arxiv.org/abs/2201.11903 | Chain-of-thought prompting for better reasoning
 
 ### RAG
 
